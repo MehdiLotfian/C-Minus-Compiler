@@ -1,0 +1,272 @@
+{
+    "Program": [
+        "int",
+        "void",
+        "EPSILON"
+    ],
+    "Declaration-list": [
+        "int",
+        "void",
+        "EPSILON"
+    ],
+    "Declaration": [
+        "int",
+        "void"
+    ],
+    "Declaration-initial": [
+        "int",
+        "void"
+    ],
+    "Declaration-prime": [
+        ";",
+        "[",
+        "("
+    ],
+    "Var-declaration-prime": [
+        ";",
+        "["
+    ],
+    "Fun-declaration-prime": [
+        "("
+    ],
+    "Type-specifier": [
+        "int",
+        "void"
+    ],
+    "Params": [
+        "int",
+        "void"
+    ],
+    "Param-list": [
+        ",",
+        "EPSILON"
+    ],
+    "Param": [
+        "int",
+        "void"
+    ],
+    "Param-prime": [
+        "[",
+        "EPSILON"
+    ],
+    "Compound-stmt": [
+        "{"
+    ],
+    "Statement-list": [
+        "ID",
+        ";",
+        "NUM",
+        "(",
+        "{",
+        "break",
+        "if",
+        "for",
+        "return",
+        "+",
+        "-",
+        "EPSILON"
+    ],
+    "Statement": [
+        "ID",
+        ";",
+        "NUM",
+        "(",
+        "{",
+        "break",
+        "if",
+        "for",
+        "return",
+        "+",
+        "-"
+    ],
+    "Expression-stmt": [
+        "ID",
+        ";",
+        "NUM",
+        "(",
+        "break",
+        "+",
+        "-"
+    ],
+    "Selection-stmt": [
+        "if"
+    ],
+    "Else-stmt": [
+        "endif",
+        "else"
+    ],
+    "Iteration-stmt": [
+        "for"
+    ],
+    "Return-stmt": [
+        "return"
+    ],
+    "Return-stmt-prime": [
+        "ID",
+        ";",
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "Expression": [
+        "ID",
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "B": [
+        "[",
+        "(",
+        "=",
+        "<",
+        "==",
+        "+",
+        "-",
+        "*",
+        "EPSILON"
+    ],
+    "H": [
+        "=",
+        "<",
+        "==",
+        "+",
+        "-",
+        "*",
+        "EPSILON"
+    ],
+    "Simple-expression-zegond": [
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "Simple-expression-prime": [
+        "(",
+        "<",
+        "==",
+        "+",
+        "-",
+        "*",
+        "EPSILON"
+    ],
+    "C": [
+        "<",
+        "==",
+        "EPSILON"
+    ],
+    "Relop": [
+        "<",
+        "=="
+    ],
+    "Additive-expression": [
+        "ID",
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "Additive-expression-prime": [
+        "(",
+        "+",
+        "-",
+        "*",
+        "EPSILON"
+    ],
+    "Additive-expression-zegond": [
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "D": [
+        "+",
+        "-",
+        "EPSILON"
+    ],
+    "Addop": [
+        "+",
+        "-"
+    ],
+    "Term": [
+        "ID",
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "Term-prime": [
+        "(",
+        "*",
+        "EPSILON"
+    ],
+    "Term-zegond": [
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "G": [
+        "*",
+        "EPSILON"
+    ],
+    "Signed-factor": [
+        "ID",
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "Signed-factor-prime": [
+        "(",
+        "EPSILON"
+    ],
+    "Signed-factor-zegond": [
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "Factor": [
+        "ID",
+        "NUM",
+        "("
+    ],
+    "Var-call-prime": [
+        "[",
+        "(",
+        "EPSILON"
+    ],
+    "Var-prime": [
+        "[",
+        "EPSILON"
+    ],
+    "Factor-prime": [
+        "(",
+        "EPSILON"
+    ],
+    "Factor-zegond": [
+        "NUM",
+        "("
+    ],
+    "Args": [
+        "ID",
+        "NUM",
+        "(",
+        "+",
+        "-",
+        "EPSILON"
+    ],
+    "Arg-list": [
+        "ID",
+        "NUM",
+        "(",
+        "+",
+        "-"
+    ],
+    "Arg-list-prime": [
+        ",",
+        "EPSILON"
+    ]
+}
